@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test1-mlflow/sklearn_logistic_regression/mlruns/0/22cbfc3b775c4263ba841f5443bbbf17/artifacts
+deleted_time: 1743036897022
+end_time: 1743031907218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 22cbfc3b775c4263ba841f5443bbbf17
+run_name: merciful-calf-349
+run_uuid: 22cbfc3b775c4263ba841f5443bbbf17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743031886547
+status: 3
+tags: []
+user_id: Usuario

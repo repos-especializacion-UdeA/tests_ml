@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/158559332557599407/9ee356fd1a8948768416bd2d75278691/artifacts
+deleted_time: 1743042387056
+end_time: 1743039373322
+entry_point_name: ''
+experiment_id: '158559332557599407'
+lifecycle_stage: deleted
+run_id: 9ee356fd1a8948768416bd2d75278691
+run_name: righteous-bass-478
+run_uuid: 9ee356fd1a8948768416bd2d75278691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743039350337
+status: 3
+tags: []
+user_id: Usuario

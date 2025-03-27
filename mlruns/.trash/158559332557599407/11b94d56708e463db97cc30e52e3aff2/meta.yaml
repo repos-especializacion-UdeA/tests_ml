@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/158559332557599407/11b94d56708e463db97cc30e52e3aff2/artifacts
+deleted_time: 1743042387058
+end_time: 1743038588150
+entry_point_name: ''
+experiment_id: '158559332557599407'
+lifecycle_stage: deleted
+run_id: 11b94d56708e463db97cc30e52e3aff2
+run_name: luxuriant-wasp-393
+run_uuid: 11b94d56708e463db97cc30e52e3aff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743038567466
+status: 3
+tags: []
+user_id: Usuario

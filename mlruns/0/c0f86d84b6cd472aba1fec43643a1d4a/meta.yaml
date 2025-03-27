@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/mlruns/0/c0f86d84b6cd472aba1fec43643a1d4a/artifacts
+end_time: 1743031503628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0f86d84b6cd472aba1fec43643a1d4a
+run_name: worried-ox-965
+run_uuid: c0f86d84b6cd472aba1fec43643a1d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743031479203
+status: 3
+tags: []
+user_id: Usuario

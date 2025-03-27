@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test1-mlflow/sklearn_logistic_regression/mlruns/0/f4acbcc644c5479ba86c0bb3e4ade600/artifacts
+end_time: 1743036760159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4acbcc644c5479ba86c0bb3e4ade600
+run_name: merciful-penguin-670
+run_uuid: f4acbcc644c5479ba86c0bb3e4ade600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743036741614
+status: 3
+tags: []
+user_id: Usuario

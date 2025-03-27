@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/661174496012333836/a1b00dfc2f034c11b93af47fa6a8e5d8/artifacts
+deleted_time: 1743042395076
+end_time: 1743042039119
+entry_point_name: ''
+experiment_id: '661174496012333836'
+lifecycle_stage: deleted
+run_id: a1b00dfc2f034c11b93af47fa6a8e5d8
+run_name: apples_rf_test
+run_uuid: a1b00dfc2f034c11b93af47fa6a8e5d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743042014376
+status: 3
+tags: []
+user_id: Usuario
