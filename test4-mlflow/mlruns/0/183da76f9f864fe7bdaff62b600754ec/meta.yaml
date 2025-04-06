@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test4-mlflow/mlruns/0/183da76f9f864fe7bdaff62b600754ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 183da76f9f864fe7bdaff62b600754ec
+run_name: awesome-bug-552
+run_uuid: 183da76f9f864fe7bdaff62b600754ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743047645756
+status: 1
+tags: []
+user_id: Usuario

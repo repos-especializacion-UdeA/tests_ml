@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/salary_model/mlruns/0/26de73ff8bff451ebfc638e55deca638/artifacts
+end_time: 1743053335743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26de73ff8bff451ebfc638e55deca638
+run_name: sedate-finch-297
+run_uuid: 26de73ff8bff451ebfc638e55deca638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053305875
+status: 3
+tags: []
+user_id: Usuario

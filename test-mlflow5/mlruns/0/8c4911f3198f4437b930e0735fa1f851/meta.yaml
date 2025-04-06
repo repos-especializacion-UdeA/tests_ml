@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test-mlflow5/mlruns/0/8c4911f3198f4437b930e0735fa1f851/artifacts
+end_time: 1743050263492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c4911f3198f4437b930e0735fa1f851
+run_name: painted-midge-140
+run_uuid: 8c4911f3198f4437b930e0735fa1f851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743050037982
+status: 3
+tags: []
+user_id: Usuario

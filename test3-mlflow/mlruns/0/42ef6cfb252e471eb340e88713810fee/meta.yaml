@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test3-mlflow/mlruns/0/42ef6cfb252e471eb340e88713810fee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42ef6cfb252e471eb340e88713810fee
+run_name: welcoming-perch-642
+run_uuid: 42ef6cfb252e471eb340e88713810fee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743047160558
+status: 1
+tags: []
+user_id: Usuario

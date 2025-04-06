@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test3-mlflow/mlruns/0/8bf74388ce3e4288bdae6d8640513eaf/artifacts
+end_time: 1743046751658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bf74388ce3e4288bdae6d8640513eaf
+run_name: likeable-auk-643
+run_uuid: 8bf74388ce3e4288bdae6d8640513eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743046724438
+status: 3
+tags: []
+user_id: Usuario

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/salary_model/mlruns/661240823722692500/a754d178c8d04606860abf0a819a9a76/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '661240823722692500'
+lifecycle_stage: active
+run_id: a754d178c8d04606860abf0a819a9a76
+run_name: fearless-midge-548
+run_uuid: a754d178c8d04606860abf0a819a9a76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053494682
+status: 1
+tags: []
+user_id: Usuario

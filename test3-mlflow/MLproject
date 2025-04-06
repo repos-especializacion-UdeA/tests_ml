@@ -1,0 +1,7 @@
+name: test3-mlflow
+
+python_env: "C:\\Users\\Usuario\\anaconda3\\python.exe"
+
+entry_points:
+  main:
+    command: "python train.py"

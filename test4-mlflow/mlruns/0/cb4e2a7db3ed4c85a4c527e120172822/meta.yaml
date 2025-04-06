@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test4-mlflow/mlruns/0/cb4e2a7db3ed4c85a4c527e120172822/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb4e2a7db3ed4c85a4c527e120172822
+run_name: popular-quail-350
+run_uuid: cb4e2a7db3ed4c85a4c527e120172822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743048485017
+status: 1
+tags: []
+user_id: Usuario

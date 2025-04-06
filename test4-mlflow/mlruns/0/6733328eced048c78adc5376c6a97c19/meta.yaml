@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test4-mlflow/mlruns/0/6733328eced048c78adc5376c6a97c19/artifacts
+end_time: 1743048253745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6733328eced048c78adc5376c6a97c19
+run_name: loud-ox-356
+run_uuid: 6733328eced048c78adc5376c6a97c19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743048228786
+status: 3
+tags: []
+user_id: Usuario

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test-mlflow5/mlruns/0/ac4e3cb6e6024f08a8e1d25c52fd7d0a/artifacts
+end_time: 1743050011055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac4e3cb6e6024f08a8e1d25c52fd7d0a
+run_name: flawless-ape-557
+run_uuid: ac4e3cb6e6024f08a8e1d25c52fd7d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743049820534
+status: 3
+tags: []
+user_id: Usuario

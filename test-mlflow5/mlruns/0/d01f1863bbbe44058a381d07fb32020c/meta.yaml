@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test-mlflow5/mlruns/0/d01f1863bbbe44058a381d07fb32020c/artifacts
+end_time: 1743050683273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d01f1863bbbe44058a381d07fb32020c
+run_name: fortunate-quail-567
+run_uuid: d01f1863bbbe44058a381d07fb32020c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743050683027
+status: 4
+tags: []
+user_id: Usuario

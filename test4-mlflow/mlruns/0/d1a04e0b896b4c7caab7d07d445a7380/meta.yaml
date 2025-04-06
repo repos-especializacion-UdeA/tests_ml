@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test4-mlflow/mlruns/0/d1a04e0b896b4c7caab7d07d445a7380/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1a04e0b896b4c7caab7d07d445a7380
+run_name: worried-conch-190
+run_uuid: d1a04e0b896b4c7caab7d07d445a7380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743047698612
+status: 1
+tags: []
+user_id: Usuario

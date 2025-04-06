@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test3-mlflow/mlruns/0/82e7503e895d471ebb65de6b065d72af/artifacts
+end_time: 1743046547480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82e7503e895d471ebb65de6b065d72af
+run_name: beautiful-slug-913
+run_uuid: 82e7503e895d471ebb65de6b065d72af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743046546464
+status: 4
+tags: []
+user_id: Usuario

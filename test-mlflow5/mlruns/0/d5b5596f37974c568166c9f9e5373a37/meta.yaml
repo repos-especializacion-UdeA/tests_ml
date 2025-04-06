@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test-mlflow5/mlruns/0/d5b5596f37974c568166c9f9e5373a37/artifacts
+end_time: 1743050708017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5b5596f37974c568166c9f9e5373a37
+run_name: adorable-moth-860
+run_uuid: d5b5596f37974c568166c9f9e5373a37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743050707907
+status: 4
+tags: []
+user_id: Usuario

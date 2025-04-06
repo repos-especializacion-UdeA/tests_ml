@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test3-mlflow/mlruns/0/0e41f5fb199249799144c3d971829a3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e41f5fb199249799144c3d971829a3e
+run_name: popular-croc-288
+run_uuid: 0e41f5fb199249799144c3d971829a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743046787148
+status: 1
+tags: []
+user_id: Usuario

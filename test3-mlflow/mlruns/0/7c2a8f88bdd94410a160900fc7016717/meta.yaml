@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test3-mlflow/mlruns/0/7c2a8f88bdd94410a160900fc7016717/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c2a8f88bdd94410a160900fc7016717
+run_name: monumental-ant-228
+run_uuid: 7c2a8f88bdd94410a160900fc7016717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743046844383
+status: 1
+tags: []
+user_id: Usuario

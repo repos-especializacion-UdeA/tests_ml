@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/salary_model/mlruns/0/800531492e7f4480b72547a451bf83b1/artifacts
+end_time: 1743053718206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 800531492e7f4480b72547a451bf83b1
+run_name: gaudy-deer-90
+run_uuid: 800531492e7f4480b72547a451bf83b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053687295
+status: 3
+tags: []
+user_id: Usuario

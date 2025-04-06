@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/salary_model/mlruns/661240823722692500/3adce79ae07b46a681d39da09a889415/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '661240823722692500'
+lifecycle_stage: active
+run_id: 3adce79ae07b46a681d39da09a889415
+run_name: sassy-shrimp-565
+run_uuid: 3adce79ae07b46a681d39da09a889415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053718506
+status: 1
+tags: []
+user_id: Usuario

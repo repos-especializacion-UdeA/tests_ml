@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/salary_model/mlruns/0/a611f7a0f90a4c28b02c06a1414c928d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a611f7a0f90a4c28b02c06a1414c928d
+run_name: carefree-roo-121
+run_uuid: a611f7a0f90a4c28b02c06a1414c928d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053442923
+status: 1
+tags: []
+user_id: Usuario

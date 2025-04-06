@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test4-mlflow/mlruns/0/f042b481375f488ebc3b2f6c40ce9729/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f042b481375f488ebc3b2f6c40ce9729
+run_name: rare-deer-569
+run_uuid: f042b481375f488ebc3b2f6c40ce9729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743048370205
+status: 1
+tags: []
+user_id: Usuario

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test3-mlflow/mlruns/0/498e4a95d9d64e3baae68770c61102eb/artifacts
+end_time: 1743046643446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 498e4a95d9d64e3baae68770c61102eb
+run_name: nosy-frog-40
+run_uuid: 498e4a95d9d64e3baae68770c61102eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743046642632
+status: 4
+tags: []
+user_id: Usuario

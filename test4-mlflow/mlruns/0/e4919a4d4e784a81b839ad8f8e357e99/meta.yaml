@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/test4-mlflow/mlruns/0/e4919a4d4e784a81b839ad8f8e357e99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4919a4d4e784a81b839ad8f8e357e99
+run_name: victorious-toad-616
+run_uuid: e4919a4d4e784a81b839ad8f8e357e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743047939826
+status: 1
+tags: []
+user_id: Usuario

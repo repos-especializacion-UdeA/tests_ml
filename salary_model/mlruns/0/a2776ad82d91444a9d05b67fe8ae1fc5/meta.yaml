@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/salary_model/mlruns/0/a2776ad82d91444a9d05b67fe8ae1fc5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2776ad82d91444a9d05b67fe8ae1fc5
+run_name: painted-dolphin-670
+run_uuid: a2776ad82d91444a9d05b67fe8ae1fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743053582364
+status: 1
+tags: []
+user_id: Usuario

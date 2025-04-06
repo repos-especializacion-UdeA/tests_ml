@@ -1,0 +1,9 @@
+digest: 030f911f
+name: dataset
+profile: '{"num_rows": 14, "num_elements": 42}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "experience", "required": true},
+  {"type": "long", "name": "age", "required": true}, {"type": "double", "name": "interview_score",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "Usuario", "mlflow.source.name": "c:/Users/Usuario/Documents/UdeA/especializacion/repos/tests_ml/salary_model/train_model.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "402f79f8ab56f9b4309904fd6fc04e0f1a97c7ef"}}'
+source_type: code
